@@ -1,0 +1,42 @@
+
+body
+{
+  font-family: 'Akaya Telivigala', cursive;
+  background-color: pink;
+}
+
+#heading1234
+  {
+    text-align: center;
+   background: #cc688e;
+   color: black;
+  }
+
+ #note2334{
+   text-align: center;
+    font-family: 'Merriweather', serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+  }
+  .main_div button{
+    font-family: 'Luckiest Guy', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+  }
+
+  
+  .copy_right_footer {
+   position: fixed;
+   color: #1a1919;
+   bottom: 0;
+   width: 100%;
+   font-size: 18px;
+   background-color: #cc688e; 
+   line-height: 3;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
